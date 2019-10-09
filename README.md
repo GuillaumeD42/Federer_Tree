@@ -6,7 +6,13 @@ Based an ATP dataset of all Roger Federer tennis games (from his first game to 2
 
 ## Dataset
 
-**source** : ATP data from 1998 to 2017. CSV file.
+**source** : ATP data from 1998 to 2017. CSV file
+
+## Jupyter Notebook
+
+In case of a rendering error of the Jupyter Notebook file - the .ipynb file diplaying an error - please go on the two following link to see the code :
+
+- 
 
 ## Litterature used to build the code
 
